@@ -22,3 +22,4 @@ Soy **Analista de sistemas informaticos** vivo en **Argentina** ,Me gusta mucho 
 |diff                 |Comapara dos archivos   |       
 |ln                   |link simbolico          |
 |pavucontrol          |control del audio       |
+|git branch           | listar rama            |
