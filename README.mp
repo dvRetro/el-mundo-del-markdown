@@ -23,3 +23,9 @@ Soy **Analista de sistemas informaticos** vivo en **Argentina** ,Me gusta mucho 
 |ln                   |link simbolico          |
 |pavucontrol          |control del audio       |
 |git branch           | listar rama            |
+
+** Alias **
+1. alias mv="mv -i"
+2. alias cp="cp -i"
+3. alias grep="grep --color=auto"
+4. alias gh="history | grep"
